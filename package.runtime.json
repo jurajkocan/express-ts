@@ -1,0 +1,19 @@
+{
+  "name": "dockerbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurajkocan/express-ts.git"
+  },
+  "author": "juraj kocan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurajkocan/express-ts/issues"
+  },
+  "homepage": "https://github.com/jurajkocan/express-ts#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
